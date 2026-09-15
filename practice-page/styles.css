@@ -12,3 +12,14 @@ main {
   padding: 24px;
   border-radius: 16px;
 }
+h1 {
+  color: #1d4ed8;
+}
+
+img {
+  border-radius: 16px;
+}
+
+a {
+  color: #1d4ed8;
+}
